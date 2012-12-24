@@ -1,0 +1,4 @@
+name:  dartdova
+description:  A sample dart cordova integration
+dependencies:
+  js: any
