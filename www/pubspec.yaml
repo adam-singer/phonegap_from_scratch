@@ -4,3 +4,7 @@ dependencies:
   js: any
   unittest: 0.2.9+7
   logging: 0.2.9+7
+  buildtool:
+    git:
+      url: git://github.com/financeCoding/buildtool.git
+      ref: diroverride
